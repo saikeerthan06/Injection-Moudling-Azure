@@ -1,5 +1,0 @@
-azure-functions
-azure-iot-devices
-opencv-python
-numpy
-requests
